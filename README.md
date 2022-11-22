@@ -1,1 +1,1 @@
-Simple note app
+# SIMPLE NOTE APP
