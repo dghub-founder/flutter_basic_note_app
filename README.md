@@ -1,4 +1,4 @@
 # SIMPLE NOTE APP
-Developed by DGHub
+- [x] Developed by DGHub
 
 [Buy tutorials](https://t.me/dghub_founder)
