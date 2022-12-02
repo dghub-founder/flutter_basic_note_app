@@ -1,3 +1,3 @@
 # SIMPLE NOTE APP
 
-[Telegram](https://t.me/dghub_founder)
+[Buy tutorials](https://t.me/dghub_founder)
